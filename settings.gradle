@@ -1,2 +1,2 @@
-include ':android-pdf-viewer'
+include ':library'
 include ':sample'
